@@ -7,7 +7,7 @@ const Home = () => {
     <div className="todos">
       <Header>
         <h1>todos</h1>
-        <p>Items will persist in the browser local storage</p>
+        <p>This is the list for all Items todo</p>
       </Header>
       <TodosLogic />
     </div>

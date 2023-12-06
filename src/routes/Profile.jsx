@@ -10,7 +10,7 @@ const Profile = () => {
         <h1>Profile.</h1>
       </Header>
       <div className={styles.profile}>
-        <h2>Hello, {user}</h2>
+        <h2>Hello, I am {user} Full-Stack Developer</h2>
       </div>
     </div>
   );
